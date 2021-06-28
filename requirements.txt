@@ -1,9 +1,8 @@
 streamlit==0.80.0
 joblib==1.0.1
 scikit_learn==0.24.1
-matplotlib==3.2.2
 xgboost==0.90
+matplotlib==3.2.2
 numpy==1.19.5
 scipy==1.4.1
 cython==0.29.23
-skimage==0.16.2
