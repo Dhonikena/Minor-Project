@@ -32,3 +32,5 @@ if uploaded_file is not None:
       st.write(f'{item} : { r[0][index]*100}')
 
 
+
+  
